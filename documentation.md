@@ -14,7 +14,7 @@ author: Alex Gil
 
 ## Prerequisites
 
-This documentation was built with beginners in mind, but has the necessary information for more seasoned producers.
+This documentation was built with beginners in mind, but has the necessary information for more seasoned producers. TEST.
 
 To install and use Ed you will be using your terminal. If you need a refresher, I highly recommend "[The Command Line Crash Course](http://cli.learncodethehardway.org/book/)." Working knowledge of HTML and CSS is also taken for granted. If you're new to HTML and CSS, you may want to check out the relevant courses on [codecademy.com](https://www.codecademy.com/learn/web).
 
